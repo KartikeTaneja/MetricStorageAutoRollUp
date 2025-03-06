@@ -26,6 +26,9 @@ logs/
 temp/
 *.tmp
 
+#setup
+scripts/setup.sh
+
 # OS specific files
 .DS_Store
 Thumbs.db
